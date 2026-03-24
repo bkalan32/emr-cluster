@@ -1,0 +1,48 @@
+<svg viewBox="0 0 430 932" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Phone body border -->
+  <rect x="5" y="5" width="420" height="922" rx="52" ry="52"
+        stroke="#1a1a1a" stroke-width="10" fill="none"/>
+
+  <!-- Camera island (titanium frame) -->
+  <rect x="22" y="22" width="178" height="188" rx="38" ry="38"
+        fill="#1c1c1e" stroke="#2a2a2c" stroke-width="2"/>
+
+  <!-- Main camera lens -->
+  <circle cx="90" cy="85" r="42" fill="#0a0a0a" stroke="#3a3a3c" stroke-width="3"/>
+  <circle cx="90" cy="85" r="32" fill="#111" stroke="#444" stroke-width="1.5"/>
+  <circle cx="90" cy="85" r="18" fill="#1a1a2e"/>
+  <circle cx="80" cy="75" r="4" fill="#4a4a6a" opacity="0.8"/>
+
+  <!-- Ultrawide lens -->
+  <circle cx="50" cy="155" r="34" fill="#0a0a0a" stroke="#3a3a3c" stroke-width="2.5"/>
+  <circle cx="50" cy="155" r="24" fill="#111" stroke="#444" stroke-width="1.5"/>
+  <circle cx="50" cy="155" r="13" fill="#1a1a2e"/>
+
+  <!-- Telephoto lens -->
+  <circle cx="150" cy="155" r="34" fill="#0a0a0a" stroke="#3a3a3c" stroke-width="2.5"/>
+  <circle cx="150" cy="155" r="24" fill="#111" stroke="#444" stroke-width="1.5"/>
+  <circle cx="150" cy="155" r="13" fill="#1a1a2e"/>
+
+  <!-- Flash -->
+  <circle cx="155" cy="55" r="14" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1.5"/>
+  <circle cx="155" cy="55" r="8" fill="#fffaf0" opacity="0.9"/>
+
+  <!-- LiDAR scanner -->
+  <circle cx="43" cy="52" r="13" fill="#1a1a1a" stroke="#2a2a2c" stroke-width="1.5"/>
+  <circle cx="43" cy="52" r="7" fill="#0a0f1a"/>
+
+  <!-- Microphone dot -->
+  <circle cx="160" cy="135" r="5" fill="#2a2a2a"/>
+
+  <!-- Power button (right side) -->
+  <rect x="422" y="240" width="8" height="95" rx="4" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+
+  <!-- Volume up (left side) -->
+  <rect x="0" y="200" width="8" height="70" rx="4" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+
+  <!-- Volume down (left side) -->
+  <rect x="0" y="285" width="8" height="70" rx="4" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+
+  <!-- Action button (left side, smaller) -->
+  <rect x="0" y="168" width="8" height="22" rx="4" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+</svg>

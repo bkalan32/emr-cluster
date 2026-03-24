@@ -1,0 +1,38 @@
+<svg viewBox="0 0 412 919" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Phone body border -->
+  <rect x="3" y="3" width="406" height="913" rx="46" ry="46"
+        stroke="#1a1a1a" stroke-width="10" fill="none"/>
+
+  <!-- Triple camera - vertical arrangement left side -->
+  <!-- Camera 1 (main) -->
+  <circle cx="75" cy="68" r="42" fill="#0a0a0a" stroke="#2a2a2c" stroke-width="3"/>
+  <circle cx="75" cy="68" r="30" fill="#111" stroke="#3a3a3c" stroke-width="2"/>
+  <circle cx="75" cy="68" r="16" fill="#1a1a2e"/>
+  <circle cx="65" cy="58" r="4" fill="#4a4a6a" opacity="0.8"/>
+
+  <!-- Camera 2 (telephoto) -->
+  <circle cx="75" cy="158" r="35" fill="#0a0a0a" stroke="#2a2a2c" stroke-width="2.5"/>
+  <circle cx="75" cy="158" r="24" fill="#111" stroke="#3a3a3c" stroke-width="1.5"/>
+  <circle cx="75" cy="158" r="13" fill="#1a1a2e"/>
+
+  <!-- Camera 3 (ultrawide) -->
+  <circle cx="75" cy="238" r="32" fill="#0a0a0a" stroke="#2a2a2c" stroke-width="2.5"/>
+  <circle cx="75" cy="238" r="22" fill="#111" stroke="#3a3a3c" stroke-width="1.5"/>
+  <circle cx="75" cy="238" r="11" fill="#1a1a2e"/>
+
+  <!-- Flash -->
+  <circle cx="130" cy="88" r="16" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1.5"/>
+  <circle cx="130" cy="88" r="9" fill="#fffaf0" opacity="0.9"/>
+
+  <!-- Heart rate sensor / additional sensor -->
+  <rect x="110" y="155" width="40" height="22" rx="8" fill="#1a1a1a" stroke="#2a2a2c" stroke-width="1.5"/>
+
+  <!-- Power button (right side) -->
+  <rect x="405" y="260" width="7" height="80" rx="3.5" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+
+  <!-- Volume up (left side) -->
+  <rect x="0" y="200" width="7" height="65" rx="3.5" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+
+  <!-- Volume down (left side) -->
+  <rect x="0" y="278" width="7" height="65" rx="3.5" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+</svg>

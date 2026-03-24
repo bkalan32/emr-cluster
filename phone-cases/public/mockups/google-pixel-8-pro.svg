@@ -1,0 +1,51 @@
+<svg viewBox="0 0 412 892" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Phone body border -->
+  <rect x="3" y="3" width="406" height="886" rx="42" ry="42"
+        stroke="#1a1a1a" stroke-width="10" fill="none"/>
+
+  <!-- Distinctive horizontal camera bar spanning full width -->
+  <rect x="3" y="28" width="406" height="105" rx="0" fill="#1c1c1e" stroke="none"/>
+  <rect x="3" y="28" width="406" height="10" rx="0" fill="#2a2a2c"/>
+  <rect x="3" y="123" width="406" height="10" rx="0" fill="#2a2a2c"/>
+
+  <!-- Rounded ends of the camera bar -->
+  <rect x="3" y="28" width="60" height="105" rx="0" fill="#1c1c1e"/>
+  <rect x="349" y="28" width="60" height="105" rx="0" fill="#1c1c1e"/>
+
+  <!-- Main camera lens -->
+  <circle cx="102" cy="80" r="38" fill="#0a0a0a" stroke="#3a3a3c" stroke-width="3"/>
+  <circle cx="102" cy="80" r="28" fill="#111" stroke="#444" stroke-width="2"/>
+  <circle cx="102" cy="80" r="15" fill="#1a1a2e"/>
+  <circle cx="92" cy="70" r="4" fill="#4a4a6a" opacity="0.8"/>
+
+  <!-- Ultrawide camera -->
+  <circle cx="210" cy="80" r="32" fill="#0a0a0a" stroke="#3a3a3c" stroke-width="2.5"/>
+  <circle cx="210" cy="80" r="22" fill="#111" stroke="#444" stroke-width="1.5"/>
+  <circle cx="210" cy="80" r="12" fill="#1a1a2e"/>
+
+  <!-- Telephoto camera -->
+  <circle cx="305" cy="80" r="30" fill="#0a0a0a" stroke="#3a3a3c" stroke-width="2.5"/>
+  <circle cx="305" cy="80" r="21" fill="#111" stroke="#444" stroke-width="1.5"/>
+  <circle cx="305" cy="80" r="11" fill="#1a1a2e"/>
+
+  <!-- Flash -->
+  <circle cx="370" cy="60" r="14" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1.5"/>
+  <circle cx="370" cy="60" r="8" fill="#fffaf0" opacity="0.9"/>
+
+  <!-- Temperature sensor / spectral sensor -->
+  <circle cx="370" cy="105" r="10" fill="#1a1a1a" stroke="#2a2a2c" stroke-width="1.5"/>
+  <circle cx="370" cy="105" r="5" fill="#0a1a0a"/>
+
+  <!-- Laser autofocus dot -->
+  <circle cx="45" cy="80" r="9" fill="#1a1a1a" stroke="#2a2a2c" stroke-width="1.5"/>
+  <circle cx="45" cy="80" r="4" fill="#1a0a0a"/>
+
+  <!-- Power button (right side) -->
+  <rect x="405" y="255" width="7" height="85" rx="3.5" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+
+  <!-- Volume up (left side) -->
+  <rect x="0" y="220" width="7" height="65" rx="3.5" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+
+  <!-- Volume down (left side) -->
+  <rect x="0" y="298" width="7" height="65" rx="3.5" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+</svg>
