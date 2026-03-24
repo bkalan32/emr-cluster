@@ -1,0 +1,40 @@
+<svg viewBox="0 0 390 844" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Phone body border -->
+  <rect x="5" y="5" width="380" height="834" rx="48" ry="48"
+        stroke="#1a1a1a" stroke-width="10" fill="none"/>
+
+  <!-- Camera island (dual system) -->
+  <rect x="20" y="20" width="158" height="162" rx="34" ry="34"
+        fill="#1c1c1e" stroke="#2a2a2c" stroke-width="2"/>
+
+  <!-- Main camera lens -->
+  <circle cx="82" cy="78" r="38" fill="#0a0a0a" stroke="#3a3a3c" stroke-width="3"/>
+  <circle cx="82" cy="78" r="28" fill="#111" stroke="#444" stroke-width="1.5"/>
+  <circle cx="82" cy="78" r="16" fill="#1a1a2e"/>
+  <circle cx="73" cy="69" r="4" fill="#4a4a6a" opacity="0.8"/>
+
+  <!-- Ultrawide lens -->
+  <circle cx="136" cy="78" r="30" fill="#0a0a0a" stroke="#3a3a3c" stroke-width="2.5"/>
+  <circle cx="136" cy="78" r="21" fill="#111" stroke="#444" stroke-width="1.5"/>
+  <circle cx="136" cy="78" r="11" fill="#1a1a2e"/>
+
+  <!-- Flash -->
+  <circle cx="55" cy="148" r="13" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1.5"/>
+  <circle cx="55" cy="148" r="7" fill="#fffaf0" opacity="0.9"/>
+
+  <!-- Microphone -->
+  <circle cx="148" cy="148" r="9" fill="#1a1a1a" stroke="#2a2a2c" stroke-width="1.5"/>
+  <circle cx="148" cy="148" r="4" fill="#0a0f1a"/>
+
+  <!-- Power button (right side) -->
+  <rect x="383" y="220" width="7" height="85" rx="3.5" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+
+  <!-- Volume up (left side) -->
+  <rect x="0" y="185" width="7" height="65" rx="3.5" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+
+  <!-- Volume down (left side) -->
+  <rect x="0" y="264" width="7" height="65" rx="3.5" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+
+  <!-- Silent switch (left side) -->
+  <rect x="0" y="155" width="7" height="22" rx="3.5" fill="#2a2a2a" stroke="#3a3a3c" stroke-width="1"/>
+</svg>
